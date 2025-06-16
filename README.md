@@ -1,9 +1,6 @@
 # EHR 2.0
 
 
-## Live
-Live site hosted in firebase
- [Click here](https://ehr-2-0.web.app/)
 
 🆁🅴🆀🆄🅸🆁🅴🅼🅴🅽🆃🆂
 
