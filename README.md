@@ -1,5 +1,6 @@
 # 🏥 EHR 2.0 – Electronic Health Record Using Blockchain
 
+
 **EHR 2.0** is a blockchain-based Electronic Health Record (EHR) system designed to ensure secure, decentralized storage and management of patient and doctor information. This project uses **Ethereum Smart Contracts**, **IPFS**, and a modern Angular-based frontend to deliver a transparent, immutable, and user-friendly hospital management experience.
 
 ---
@@ -13,15 +14,13 @@
 ## 📸 Screenshots
 
 ### 🏠 Home Page  
-![Home Page](./screenshots/home-page.png)
+<img width="1920" height="1080" alt="Screenshot (149)" src="https://github.com/user-attachments/assets/6cad6cf9-0e10-4bd6-a9bd-8a12fbf21090" />
 
 ### 📊 Admin Dashboard  
-![Admin Dashboard](./screenshots/admin-dashboard.png)
+<img width="1920" height="1080" alt="Screenshot (150)" src="https://github.com/user-attachments/assets/83ebcffc-9980-44e6-ad05-ce6bbdebfd5e" />
 
 ### ➕ Add Doctor Page  
-![Add Doctor Page](./screenshots/add-doctor.png)
-
-> Ensure the images are placed inside a folder named `screenshots` in the project root directory and named as shown above.
+<img width="1920" height="1080" alt="Screenshot (151)" src="https://github.com/user-attachments/assets/6b59a22b-020e-45b6-aef5-9b03a766ab47" />
 
 ---
 
@@ -50,12 +49,13 @@ Open a terminal in the project directory and run:
 ```bash
 npm install --force
 
-### 2. Install Truffle Globally
+2. Install Truffle Globally
 bash
 Copy
 Edit
 npm install -g truffle
-### 3. Set Up Ganache
+
+3. Set Up Ganache
 Open Ganache
 
 Create a New Workspace
@@ -64,13 +64,13 @@ Add your project by selecting truffle-config.js
 
 Save the workspace
 
-### 4. Compile and Deploy Smart Contracts
+4. Compile and Deploy Smart Contracts
 bash
 Copy
 Edit
 truffle migrate
 
-### 5. Start the Development Server
+5. Start the Development Server
 bash
 Copy
 Edit
@@ -80,9 +80,9 @@ Open your browser and navigate to:
 arduino
 Copy
 Edit
-http://localhost:4200
+http://localhost:4200 
 
-# 🧠 Tech Stack
+🧠 Tech Stack
 Frontend: Angular
 
 Smart Contracts: Solidity
@@ -93,6 +93,6 @@ Storage: IPFS
 
 Wallet Integration: MetaMask
 
-# 🧾 License
+🧾 License
 This project is for educational and development use. Please check licensing terms before deploying commercially.
 
