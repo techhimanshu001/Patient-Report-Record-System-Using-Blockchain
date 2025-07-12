@@ -1,5 +1,13 @@
+<<<<<<< HEAD
 {
   "projects": {
     "default": "ehr-2-0"
   }
 }
+=======
+{
+  "projects": {
+    "default": "ehr-2-0"
+  }
+}
+>>>>>>> bbeeede (More Features)
