@@ -19,7 +19,6 @@ Live site hosted in firebase
 
 * [IPFS Kubo](https://dist.ipfs.tech/#go-ipfs)
 
-  - configure ipfs refer: https://github.com/shamil-t/ehr-blockchain/issues/15#issuecomment-1333342345
 
 4.Add Metamask Extension in Browser
 
