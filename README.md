@@ -51,39 +51,34 @@ npm install --force
 ```
 
 2. Install Truffle Globally
-bash
+```
 Copy
 Edit
 npm install -g truffle
+```
 
-3. Set Up Ganache
+4. Set Up Ganache
+```
 Open Ganache
-
 Create a New Workspace
-
 Add your project by selecting truffle-config.js
-
 Save the workspace
+```
 
 4. Compile and Deploy Smart Contracts
-bash
-Copy
-Edit
+```
 truffle migrate
-
-5. Start the Development Server
-bash
-Copy
-Edit
+```
+6. Start the Development Server
+```
 npm start
+```
 Open your browser and navigate to:
-
-arduino
-Copy
-Edit
+```
 http://localhost:4200 
+```
 
-🧠 Tech Stack
+## 🧠 Tech Stack
 Frontend: Angular
 
 Smart Contracts: Solidity
@@ -94,6 +89,6 @@ Storage: IPFS
 
 Wallet Integration: MetaMask
 
-🧾 License
+## 🧾 License
 This project is for educational and development use. Please check licensing terms before deploying commercially.
 
