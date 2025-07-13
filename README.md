@@ -52,8 +52,6 @@ npm install --force
 
 2. Install Truffle Globally
 ```
-Copy
-Edit
 npm install -g truffle
 ```
 
