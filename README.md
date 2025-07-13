@@ -46,8 +46,9 @@ Before you begin, ensure the following tools are installed on your system:
 
 ### 1. Install Project Dependencies
 Open a terminal in the project directory and run:
-```bash
+```
 npm install --force
+```
 
 2. Install Truffle Globally
 bash
